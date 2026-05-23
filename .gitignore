@@ -1,0 +1,29 @@
+# Node
+frontend/node_modules
+frontend/build
+
+# Java
+backend/target
+
+# IDE
+.idea
+.vscode
+*.iml
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+
+# Environment
+.env
+frontend/.env
+frontend/.env.local
+backend/.env
+
+# Uploads
+backend/uploads
+
+# Logs
+*.log
